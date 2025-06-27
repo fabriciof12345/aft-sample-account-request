@@ -51,6 +51,7 @@ module "account_request_01" {
     )
     another_custom_field1 = "a"
     another_custom_field2 = "b"
+    another_custom_field3 = "c"
   }
 
   account_customizations_name = "SANDBOX"
